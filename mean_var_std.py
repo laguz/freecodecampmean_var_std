@@ -6,7 +6,11 @@ my_list = [0,1,2,3,4,5,6,7,8]
 print("Mean of data set 1 is % s" % (mean(my_list)))
 
 def calculate():
-  print("This is Luis")
-  print("This is Lourdes")
+  print("mean")
+  print("variance")
+  print("standard deviation")
+  print("max")
+  print("min")
+  print("sum")
 
 calculate()
